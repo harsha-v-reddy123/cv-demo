@@ -1,0 +1,9 @@
+body{
+    background-color: rgb(127, 206, 255);
+}
+h1,h2{
+    color: green;
+}
+.container{
+    text-align: center;
+}
